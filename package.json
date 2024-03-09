@@ -1,0 +1,27 @@
+{
+"name": "P01yg10tNet",
+"version": "1.0.0",
+"description": "PolyglotNet is a language learning hub that uses AI to adapt to your learning style",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai15/P01yg10tNet.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai15",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
+

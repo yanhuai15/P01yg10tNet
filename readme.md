@@ -1,0 +1,1 @@
+Description: PolyglotNet is a language learning hub that uses AI to adapt to your learning style. It offers interactive lessons, speech recognition exercises, and a global community of language learners to practice with. Dive into a new language and culture with PolyglotNet!
